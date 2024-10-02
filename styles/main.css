@@ -1,0 +1,18 @@
+h1{
+    font-size: 2rem;
+    font-weight:100;
+    background-color:#cccccc;
+    text-align: center;
+}
+
+.highlight{
+    color:#FF0000;
+}
+
+
+#footer {
+    color: blueviolet;
+    background-color: #CCCCCC;
+    font-size: 10px;
+    text-align: center;
+}
